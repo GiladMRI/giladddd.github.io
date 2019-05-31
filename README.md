@@ -38,11 +38,11 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 
 ## DUSTER - Tofts-model based analysis of DCE-MRI with Bolus-arrival-time estimation
 [DUSTER](https://github.com/giladddd/DUSTER) :  Tofts-model based analysis of DCE-MRI with Bolus-arrival-time estimation. <br>
-For: \[2016\] G. Liberman, Y. Louzoun, M. Artzi, G. Nadav, J.R. Ewing and D. Ben Bashat, “DUSTER: Dynamic contrast enhance up-sampled temporal resolution analysis method.", *Magnetic Resonance Imaging*, 34(4): 442–450. DOI: [10.1016/j.mri.2015.12.014](http://dx.doi.org/10.1016/j.mri.2015.12.014) \
+For: \[2016\] G. Liberman, Y. Louzoun, M. Artzi, G. Nadav, J.R. Ewing and D. Ben Bashat, “DUSTER: Dynamic contrast enhance up-sampled temporal resolution analysis method.", *Magnetic Resonance Imaging*, 34(4): 442–450. DOI: [10.1016/j.mri.2015.12.014](http://dx.doi.org/10.1016/j.mri.2015.12.014)
 
 ## Linop script for BART
 [LinopScript](https://github.com/giladddd/LinopScript) : Easily extend BART to accomodate arbitrary linear image-to-signal models. Useful for currently unsupported models, such as SPEN, navigator-based multi-shot, etc.
 
 ## NeuroGPU - GPU support for NEURON
 [NeuroGPU](https://github.com/giladddd/NeuroGPU) : GPU support for NEURON elctro-chemical neuron simulation.<br>
-For: \[2013\] R. Ben-Shalom\*, G. Liberman\*, and A. Korngreen, "Accelerating compartmental modeling on a graphical processing unit", *Frontiers in neuroinformatics* 7: 4. DOI: [10.3389/fninf.2013.00004](http://dx.doi.org/10.3389/fninf.2013.00004) \
+For: \[2013\] R. Ben-Shalom\*, G. Liberman\*, and A. Korngreen, "Accelerating compartmental modeling on a graphical processing unit", *Frontiers in neuroinformatics* 7: 4. DOI: [10.3389/fninf.2013.00004](http://dx.doi.org/10.3389/fninf.2013.00004) 
