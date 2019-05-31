@@ -1,4 +1,4 @@
-![Image](/imgs/Gilad1.jpg){:height="1%" width="5%"} [giladliberman@gmail.com](giladliberman@gmail.com)
+![Image](/imgs/Gilad1.jpg){:width="100px"} [giladliberman@gmail.com](giladliberman@gmail.com)
 In the last decade I have worked extensively in MRI research. I started from MR image analysis for the characterization of the vascular system in the healthy brain and in patients with Glioblastoma and other brain tumours. I then ventured deeper into MR pulse sequence design for imaging under challenging conditions, and contributed to the development of advanced reconstruction techniques, where tremendous advancement was achieved in recent years. My interests lie at the intersection of pulse sequence design with corresponding dedicated reconstruction approaches, and clinical and neuroscience applications, mostly under the more challenging, less researched conditions.
 
 
