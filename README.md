@@ -5,6 +5,7 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 
 # Publications
 PDFs [Here](https://github.com/giladddd/giladddd.github.io/tree/master/papers).<br>
+<br>
 \[2018\] G. Liberman and B. Poser, "Minimal Linear Networks for MR Image Reconstruction", *in preparation*. <br>
 \[2018\] E. Solomon\*, G. Liberman\*, N. Nissan, E. Haran, M. Sklair and L. Frydman, "Diffusion-Weighted MR Breast Imaging with Submillimeter Resolution and Immunity to Artifacts by Spatio-Temporal Encoding at 3T", *submitted*. <br>
 \[2018\] M. Artzi, G. Liberman, D.T. Blumenthal, F. Bokstein and D. Ben Bashat, "Differentiation between vasogenic edema and infiltrative tumor in patients with high‐grade gliomas using texture patch‐based analysis", *Journal of Magnetic Resonance Imaging*. DOI: [10.1002/jmri.25939](https://doi.org/10.1002/jmri.25939) <br>
