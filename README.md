@@ -1,6 +1,7 @@
 ![Image](/imgs/Gilad1.jpg){:width="100px"}<br> <br>
 In the last decade I have worked extensively in MR research. I started from MR image analysis for the characterization of the vascular system in the healthy brain and in patients with Glioblastoma and other brain tumours. I then ventured deeper into MR pulse sequence design for imaging under challenging conditions, and contributed to the development of advanced reconstruction techniques, where tremendous advancement was achieved in recent years. My interests lie at the intersection of pulse sequence design with corresponding dedicated reconstruction approaches, and clinical and neuroscience applications, mostly under the more challenging, less researched conditions.<br>
 
+
 # <a name="Publications"></a>
 
 # Publications
