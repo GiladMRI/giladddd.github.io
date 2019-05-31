@@ -4,6 +4,7 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 # <a name="Publications"></a>
 
 # Publications
+PDFs [Here](https://github.com/giladddd/giladddd.github.io/tree/master/papers).<br>
 \[2018\] G. Liberman and B. Poser, "Minimal Linear Networks for MR Image Reconstruction", *in preparation*. <br>
 \[2018\] E. Solomon\*, G. Liberman\*, N. Nissan, E. Haran, M. Sklair and L. Frydman, "Diffusion-Weighted MR Breast Imaging with Submillimeter Resolution and Immunity to Artifacts by Spatio-Temporal Encoding at 3T", *submitted*. <br>
 \[2018\] M. Artzi, G. Liberman, D.T. Blumenthal, F. Bokstein and D. Ben Bashat, "Differentiation between vasogenic edema and infiltrative tumor in patients with high‐grade gliomas using texture patch‐based analysis", *Journal of Magnetic Resonance Imaging*. DOI: [10.1002/jmri.25939](https://doi.org/10.1002/jmri.25939) <br>
@@ -34,14 +35,16 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 <br>
 # Code<a name="Code"></a>
 ## MLN - Minimal Linear Networks
-[MLN](https://github.com/giladddd/MLN) : Minimal linear networks for MR image reconstruction, with emphasis on spiral trajectories. Combining standard image reconstruction pipeline with database driven, result-based backpropogation setting.
+[MLN](https://github.com/giladddd/MLN) : Minimal linear networks for MR image reconstruction, with emphasis on spiral trajectories.<br>
+Combining standard image reconstruction pipeline with database driven, result-based backpropogation setting.
 
 ## DUSTER - Tofts-model based analysis of DCE-MRI with Bolus-arrival-time estimation
 [DUSTER](https://github.com/giladddd/DUSTER) :  Tofts-model based analysis of DCE-MRI with Bolus-arrival-time estimation. <br>
 For: \[2016\] G. Liberman, Y. Louzoun, M. Artzi, G. Nadav, J.R. Ewing and D. Ben Bashat, “DUSTER: Dynamic contrast enhance up-sampled temporal resolution analysis method.", *Magnetic Resonance Imaging*, 34(4): 442–450. DOI: [10.1016/j.mri.2015.12.014](http://dx.doi.org/10.1016/j.mri.2015.12.014)
 
 ## Linop script for BART
-[LinopScript](https://github.com/giladddd/LinopScript) : Easily extend BART to accomodate arbitrary linear image-to-signal models. Useful for currently unsupported models, such as SPEN, navigator-based multi-shot, etc.
+[LinopScript](https://github.com/giladddd/LinopScript) : Easily extend BART to accomodate arbitrary linear image-to-signal models.<br>
+Useful for currently unsupported models, such as SPEN, navigator-based multi-shot, etc.
 
 ## NeuroGPU - GPU support for NEURON
 [NeuroGPU](https://github.com/giladddd/NeuroGPU) : GPU support for NEURON elctro-chemical neuron simulation.<br>
