@@ -31,6 +31,7 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 \[2007\] G. Liberman, Z. Nutov, “On shredders and vertex connectivity augmentation", *Journal of Discrete Algorithms* 5(1): 91–101. DOI: [10.1016/j.jda.2006.03.005](http://dx.doi.org/10.1016/j.jda.2006.03.005) <br>
 </div>
 
+<div id="Code">
 # Code
 ## MLN - Minimal Linear Networks
 [MLN](https://github.com/giladddd/MLN) : Minimal linear networks for MR image reconstruction, with emphasis on spiral trajectories. Combining standard image reconstruction pipeline with database driven, result-based backpropogation setting.
@@ -45,3 +46,4 @@ For: \[2016\] G. Liberman, Y. Louzoun, M. Artzi, G. Nadav, J.R. Ewing and D. Ben
 ## NeuroGPU - GPU support for NEURON
 [NeuroGPU](https://github.com/giladddd/NeuroGPU) : GPU support for NEURON elctro-chemical neuron simulation.<br>
 For: \[2013\] R. Ben-Shalom\*, G. Liberman\*, and A. Korngreen, "Accelerating compartmental modeling on a graphical processing unit", *Frontiers in neuroinformatics* 7: 4. DOI: [10.3389/fninf.2013.00004](http://dx.doi.org/10.3389/fninf.2013.00004) \
+</div>
