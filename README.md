@@ -1,7 +1,7 @@
 ![Image](/imgs/Gilad1.jpg){:width="100px"} [giladliberman@gmail.com](giladliberman@gmail.com) <br> <br>
 In the last decade I have worked extensively in MRI research. I started from MR image analysis for the characterization of the vascular system in the healthy brain and in patients with Glioblastoma and other brain tumours. I then ventured deeper into MR pulse sequence design for imaging under challenging conditions, and contributed to the development of advanced reconstruction techniques, where tremendous advancement was achieved in recent years. My interests lie at the intersection of pulse sequence design with corresponding dedicated reconstruction approaches, and clinical and neuroscience applications, mostly under the more challenging, less researched conditions.
 
-
+<div id="Publications">
 # Publications
 \[2018\] G. Liberman and B. Poser, "Minimal Linear Networks for MR Image Reconstruction", *in preparation*. <br>
 \[2018\] E. Solomon\*, G. Liberman\*, N. Nissan, E. Haran, M. Sklair and L. Frydman, "Diffusion-Weighted MR Breast Imaging with Submillimeter Resolution and Immunity to Artifacts by Spatio-Temporal Encoding at 3T", *submitted*. <br>
@@ -29,7 +29,7 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 \[2013\] R. Ben-Shalom\*, G. Liberman\*, and A. Korngreen, "Accelerating compartmental modeling on a graphical processing unit", *Frontiers in neuroinformatics* 7: 4. DOI: [10.3389/fninf.2013.00004](http://dx.doi.org/10.3389/fninf.2013.00004) <br>
 \[2012\] G. Liberman, Y. Louzoun, O. Aizenstein, D.T. Blumenthal, F. Bokstein, M. Palmon, B.W. Corn, D. Ben Bashat, “Automatic multi-modal MR tissue classification for the assessment of response to bevacizumab in patients with glioblastoma", *European Journal of Radiology* 82(2), e87-e94. DOI: [10.1016/j.ejrad.2012.09.001](http://dx.doi.org/10.1016/j.ejrad.2012.09.001) <br>
 \[2007\] G. Liberman, Z. Nutov, “On shredders and vertex connectivity augmentation", *Journal of Discrete Algorithms* 5(1): 91–101. DOI: [10.1016/j.jda.2006.03.005](http://dx.doi.org/10.1016/j.jda.2006.03.005) <br>
-
+</div>
 
 # Code
 ## MLN - Minimal Linear Networks
