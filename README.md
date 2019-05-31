@@ -4,7 +4,7 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 # <a name="Publications"></a>
 
 # Publications
-PDFs [Here](https://github.com/giladddd/giladddd.github.io/tree/master/papers).<br>
+PDFs [Here](https://github.com/giladddd/giladddd.github.io/tree/master/papers) for most of them.<br>
 <br>
 \[2018\] G. Liberman and B. Poser, "Minimal Linear Networks for MR Image Reconstruction", *in preparation*. <br>
 \[2018\] E. Solomon\*, G. Liberman\*, N. Nissan, E. Haran, M. Sklair and L. Frydman, "Diffusion-Weighted MR Breast Imaging with Submillimeter Resolution and Immunity to Artifacts by Spatio-Temporal Encoding at 3T", *submitted*. <br>
