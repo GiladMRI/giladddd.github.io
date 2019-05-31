@@ -2,9 +2,7 @@
 In the last decade I have worked extensively in MR research. I started from MR image analysis for the characterization of the vascular system in the healthy brain and in patients with Glioblastoma and other brain tumours. I then ventured deeper into MR pulse sequence design for imaging under challenging conditions, and contributed to the development of advanced reconstruction techniques, where tremendous advancement was achieved in recent years. My interests lie at the intersection of pulse sequence design with corresponding dedicated reconstruction approaches, and clinical and neuroscience applications, mostly under the more challenging, less researched conditions.<br>
 
 
-# <a name="Publications"></a>
-
-# Publications
+# Publications<a name="Publications"></a>
 PDFs [Here](https://github.com/giladddd/giladddd.github.io/tree/master/papers) for most of them.<br>
 <br>
 2018 G. Liberman and B. Poser, "Minimal Linear Networks for MR Image Reconstruction", *in preparation*. <br>
