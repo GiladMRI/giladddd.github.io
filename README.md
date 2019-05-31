@@ -35,12 +35,12 @@ In the last decade I have worked extensively in MRI research. I started from MR 
 ## MLN - Minimal Linear Networks
 [MLN](https://github.com/giladddd/MLN) : Minimal linear networks for MR image reconstruction, with emphasis on spiral trajectories. Combining standard image reconstruction pipeline with database driven, result-based backpropogation setting.
 
-## DUSTER
+## DUSTER - Tofts-model based analysis of DCE-MRI with Bolus-arrival-time estimation
 [DUSTER](https://github.com/giladddd/DUSTER) :  Tofts-model based analysis of DCE-MRI with Bolus-arrival-time estimation.
 For:
 
 ## Linop script for BART
 [LinopScript](https://github.com/giladddd/LinopScript) : Easily extend BART to accomodate arbitrary linear image-to-signal models. Useful for currently unsupported models, such as SPEN, navigator-based multi-shot, etc.
 
-## NeuroGPU
+## NeuroGPU - GPU support for NEURON
 [NeuroGPU](https://github.com/giladddd/NeuroGPU) : GPU support for NEURON elctro-chemical neuron simulation.
