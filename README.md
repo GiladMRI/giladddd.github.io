@@ -1,10 +1,10 @@
-![Image](/imgs/Gilad1.jpg){:height="50%" width="50%"} [giladliberman@gmail.com](giladliberman@gmail.com)
+![Image](/imgs/Gilad1.jpg){:height="1%" width="5%"} [giladliberman@gmail.com](giladliberman@gmail.com)
 In the last decade I have worked extensively in MRI research. I started from MR image analysis for the characterization of the vascular system in the healthy brain and in patients with Glioblastoma and other brain tumours. I then ventured deeper into MR pulse sequence design for imaging under challenging conditions, and contributed to the development of advanced reconstruction techniques, where tremendous advancement was achieved in recent years. My interests lie at the intersection of pulse sequence design with corresponding dedicated reconstruction approaches, and clinical and neuroscience applications, mostly under the more challenging, less researched conditions.
 
 
 # Publications
-\[2018\]G. Liberman and B. Poser, "Minimal Linear Networks for MR Image Reconstruction", *in preparation*. /
-\[2018\]E. Solomon\*, G. Liberman\*, N. Nissan, E. Haran, M. Sklair and L. Frydman, "Diffusion-Weighted MR Breast Imaging with Submillimeter Resolution and Immunity to Artifacts by Spatio-Temporal Encoding at 3T", *submitted*. /
+\[2018\]G. Liberman and B. Poser, "Minimal Linear Networks for MR Image Reconstruction", *in preparation*. \
+\[2018\]E. Solomon\*, G. Liberman\*, N. Nissan, E. Haran, M. Sklair and L. Frydman, "Diffusion-Weighted MR Breast Imaging with Submillimeter Resolution and Immunity to Artifacts by Spatio-Temporal Encoding at 3T", *submitted*. \
 \[2018\]M. Artzi, \textbf{G. Liberman}, D.T. Blumenthal, F. Bokstein and D. Ben Bashat, "Differentiation between vasogenic edema and infiltrative tumor in patients with high‐grade gliomas using texture patch‐based analysis", *Journal of Magnetic Resonance Imaging*. DOI: [10.1002/jmri.25939](https://doi.org/10.1002/jmri.25939) /
 \[2018\]S.F. Cousin*, G. Liberman\*, E. Solomon, M. Otikovs and L. Frydman, "A regularized reconstruction pipeline for high‐definition diffusion MRI in challenging regions incorporating a per‐shot image correction", *Magnetic Resonance in Medicine*, accepted. /
 \[2018\]G. Farkash, G. Liberman and L. Frydman, "Pulses for improving MRI’s slice selectivity in the presence of strong, metal-derived inhomogeneities", *In preparation*. /
