@@ -1,6 +1,6 @@
 ![Image](/imgs/Gilad1.jpg){:width="100px"}<br><br>
-In the last decade I have worked extensively in MR research. I started from MR image analysis for the characterization of the vascular system in the healthy brain and in patients with Glioblastoma and other brain tumours. I then ventured deeper into MR pulse sequence design for imaging under challenging conditions, and contributed to the development of advanced reconstruction techniques, where tremendous advancement was achieved in recent years. My interests lie at the intersection of pulse sequence design with corresponding dedicated reconstruction approaches, and clinical and neuroscience applications, mostly under the more challenging, less researched conditions.<br>
-
+I currently work in the Setsompop lab on time-interleaved non-Cartesian trajectories, and continuing the research in the Poser lab (Maastricht university) on multi-echo non-Cartesian ASL sequences. Before that I did a postdoc at the Ftydman lab (Weizmann institute of science) on spatiotemporal-encoded sequences for imaging under strong inhomogeneity and in challenging conditions. During my PhD at prof. Ben Bashat's lab (Tel-Aviv medical center) I worked on analysis of kinetic models in DCE in patients with brain tumors, mainly Glioblastoma.
+<br>
 
 # Publications<a name="Publications"></a>
 PDFs [Here](https://github.com/giladddd/giladddd.github.io/tree/master/papers) for most of them.<br>
