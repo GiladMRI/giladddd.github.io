@@ -1,5 +1,5 @@
 ![Image](/imgs/Gilad1.jpg){:width="100px"}<br><br>
-I currently work in the Setsompop lab on time-interleaved non-Cartesian trajectories, and continuing the research in the Poser lab (Maastricht university) on multi-echo non-Cartesian ASL sequences. Before that I did a postdoc at the Frydman lab (Weizmann institute of science) on spatiotemporal-encoded sequences for imaging under strong inhomogeneity and in challenging conditions. During my PhD at prof. Ben Bashat's lab (Tel-Aviv medical center) I worked on analysis of kinetic models in DCE in patients with brain tumors, mainly Glioblastoma.
+I currently work in the Setsompop lab on time-interleaved non-Cartesian trajectories, and continuing the research in the Poser lab (Maastricht university) on multi-echo non-Cartesian ASL sequences. Before that I did a postdoc at the Frydman lab (Weizmann institute of science) on spatiotemporal-encoded sequences for imaging under strong inhomogeneity and in challenging conditions. During my PhD at prof. Ben Bashat's lab (Tel-Aviv medical center) I worked on analysis of kinetic models in DCE in patients with brain tumors, mainly Glioblastoma. 
 <br>
 
 # Publications<a name="Publications"></a>
